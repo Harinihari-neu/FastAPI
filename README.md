@@ -1,4 +1,4 @@
-# Wine Quality Prediction API - Lab Documentation
+# FAST API lab Documentation
 
 ## Overview
 
